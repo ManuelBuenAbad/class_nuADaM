@@ -10,6 +10,23 @@ Montanari, Deanna Hooper, Samuel Brieden, Daniel Meinert, Matteo Lucca, etc.
 For download and information, see http://class-code.net
 
 
+`class_nuADaM`
+-----------------------------------
+
+This modified version of CLASS was created by Manuel A. Buen-Abad and Taewook Youn, 2024.
+If you use it, please refer to the following paper:
+
+    @article{Buen-Abad:2024tlb,
+    author = "Buen-Abad, Manuel A. and Chacko, Zackaria and Flood, Ina and Kilic, Can and Marques-Tavares, Gustavo and Youn, Taewook",
+    title = "{Atomic Dark Matter, Interacting Dark Radiation, and the Hubble Tension}",
+    eprint = "2411.08097",
+    archivePrefix = "arXiv",
+    primaryClass = "hep-ph",
+    reportNumber = "UTWI-37-2024",
+    month = "11",
+    year = "2024"
+    }
+
 Compiling CLASS and getting started
 -----------------------------------
 
